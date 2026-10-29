@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thurein Htet</h1>
-<h4 align="center">Full-stack developer experienced enterprise features using Django,Spring Boot, Node.js,NestJS,Flutter,Kotlin,React,React Native and modern cloud technologies (AWS, Docker, Kubernetes)</h4>
+<h4 align="center">Full-stack developer experienced enterprise features using Django,Spring Boot, Node.js,NestJS,Flutter,iOS,Swift,Kotlin,React,React Native and modern cloud technologies (AWS, Docker, Kubernetes)</h4>
 
 <p align="left">  </p>
 
